@@ -1,3 +1,6 @@
 [submodule "themes/hugo-blog-awesome"]
 	path = themes/hugo-blog-awesome
 	url = https://github.com/hugo-sid/hugo-blog-awesome.git
+[submodule "themes/listed"]
+	path = themes/listed
+	url = https://github.com/kimjunil/listed.git
